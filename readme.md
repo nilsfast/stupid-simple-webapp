@@ -20,4 +20,4 @@ This is a template for a simple frontend-only webapp.
 
 ## Scripts
 
-- `sh scripts/tailwind.sh` - Start the Tailwind CSS watcher, (Tailwind CLI required)
+- `sh tailwind.sh` - Starts the Tailwind CSS watcher, (Tailwind CLI required)
