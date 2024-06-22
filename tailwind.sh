@@ -1,0 +1,1 @@
+ehco "Remeber to change the directory name in the tailwind.config.js file"
